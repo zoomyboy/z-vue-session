@@ -1,6 +1,6 @@
 {
   "name": "zoom-vue-session",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "session management for vue",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/zoomyboy/z-vue-session.git"
   },
   "dependencies": {
-	  "vue-events": "^3.0"
+    "vue-events": "^3.0"
   },
   "author": "",
   "license": "MIT",
